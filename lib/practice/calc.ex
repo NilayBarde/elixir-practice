@@ -7,8 +7,6 @@ defmodule Practice.Calc do
   def calc(expr) do
     # This should handle +,-,*,/ with order of operations,
     # but doesn't need to handle parens.
-    # |> Code.eval_string
-    # |> elem(0)
      end   
 
     # Hint:
