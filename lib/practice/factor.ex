@@ -1,4 +1,5 @@
 # Learned the factorization algorithm using https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/
+# Got the idea of using this cond factorization from https://github.com/hurtadoisabel/elixir-practice/blob/master/lib/practice/factor.ex
 
  defmodule Practice.Factor do
 
